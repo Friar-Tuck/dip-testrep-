@@ -1,0 +1,17 @@
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\bin\Debug\Diploma Csh.exe.config
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\obj\Debug\Diploma Csh.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\obj\Debug\Diploma_Csh.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\obj\Debug\Diploma Csh.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\bin\Debug\Diploma Csh.exe
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\bin\Debug\Diploma Csh.pdb
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\obj\Debug\Diploma Csh.exe
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\obj\Debug\Diploma Csh.pdb
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\obj\Debug\Diploma_Csh.FormProgressBar.resources
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\obj\Debug\Diploma_Csh.FormMain.resources
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\obj\Debug\Diploma_Csh.FormResult.resources
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\obj\Debug\Diploma_Csh.FormException.resources
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\obj\Debug\Diploma_Csh.FormHelp.resources
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\bin\Debug\Diploma Csh.exe.manifest
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\bin\Debug\Diploma Csh.application
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\obj\Debug\Diploma Csh.exe.manifest
+D:\Visual Studio 2015\Projects\Diploma Csh\Diploma Csh\obj\Debug\Diploma Csh.application
